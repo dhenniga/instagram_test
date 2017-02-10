@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\David\Desktop\david_hennigan_android_instagram_test\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\David\Desktop\david_hennigan_android_instagram_test\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_7797bc38283fbf46076765e985524cd300f376e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\David\Desktop\david_hennigan_android_instagram_test\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Users\David\Desktop\david_hennigan_android_instagram_test\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.1_962b3cc0c6ce98c2054d91b9c01b5b3a83bf409d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\David\Desktop\david_hennigan_android_instagram_test\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="C:\Users\David\Desktop\david_hennigan_android_instagram_test\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.1_ff9ea931fb0e80a1548bd0769087dd53bd250c9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\David\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.3.2\d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27\picasso-2.3.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27">
+        <dex dex="C:\Users\David\Desktop\instagram-integration-android-application-tutorial-master\app\build\intermediates\pre-dexed\debug\picasso-2.3.2_d3aa90e5614caffe3fb4a8a9019f76bf9d67a884.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\David\Desktop\david_hennigan_android_instagram_test\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\David\Desktop\david_hennigan_android_instagram_test\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.1_5f0aab3035e9b46f7da78dbac4c9d4cb159a8ddb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\David\Desktop\david_hennigan_android_instagram_test\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\David\Desktop\david_hennigan_android_instagram_test\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_fdbf707a6bd60a87aeff72fef23704aae96e336f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\David\Desktop\instagram-integration-android-application-tutorial-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Users\David\Desktop\instagram-integration-android-application-tutorial-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.1_3d6f0815edeaaff503b38e2629b0719ee68d2f58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\David\Desktop\instagram-integration-android-application-tutorial-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\David\Desktop\instagram-integration-android-application-tutorial-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_18069f9f24e525373b5934c7f7a20babe98d41b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\David\Desktop\instagram-integration-android-application-tutorial-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\David\Desktop\instagram-integration-android-application-tutorial-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.1_827837c6e989b94b024b2c990f9ffc49c02f3032.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\android_install\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Users\David\Desktop\instagram-integration-android-application-tutorial-master\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.1_395c9fb03dd75b54d485adaa1568588a9ff8daf4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\David\Desktop\instagram-integration-android-application-tutorial-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\David\Desktop\instagram-integration-android-application-tutorial-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.1_7fe1b4a65d0186ac9fae29e0f08e477413753117.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\David\Desktop\instagram-integration-android-application-tutorial-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\David\Desktop\instagram-integration-android-application-tutorial-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_ed220f1dfae80bbd706478eb36b73f4a826eb5a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\David\Desktop\instagram-integration-android-application-tutorial-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="C:\Users\David\Desktop\instagram-integration-android-application-tutorial-master\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.1_b0ec693ccc82b274d35da79186330d10f046e696.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\David\Desktop\instagram-integration-android-application-tutorial-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\David\Desktop\instagram-integration-android-application-tutorial-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.1_4b6e11c12e10275c8a44b2b2c2df92e1f4f84456.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\David\Desktop\david_hennigan_android_instagram_test\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\David\Desktop\david_hennigan_android_instagram_test\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_3b842de44763a82bc78b22dddfa51e873055833e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\David\Desktop\david_hennigan_android_instagram_test\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\David\Desktop\david_hennigan_android_instagram_test\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.1_abc6fa32bd0034f135a34308dd92547cd2e368f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\David\Desktop\instagram-integration-android-application-tutorial-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\David\Desktop\instagram-integration-android-application-tutorial-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_bd1682a595c2f4f7e38de69831b0cc5d5104c8ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\David\Desktop\instagram-integration-android-application-tutorial-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\David\Desktop\instagram-integration-android-application-tutorial-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.1_fe002c5f40ccf7b5a2e2461598b4886c182ef404.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\David\Desktop\david_hennigan_android_instagram_test\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\David\Desktop\david_hennigan_android_instagram_test\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.1_cf201f7892cec4641a1341e1da09484a61a7a521.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\David\Desktop\david_hennigan_android_instagram_test\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\David\Desktop\david_hennigan_android_instagram_test\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.1_330033e30909836c6eaabd2ecf7da0e515cc86bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\David\Desktop\instagram-integration-android-application-tutorial-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\David\Desktop\instagram-integration-android-application-tutorial-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.1_696aed68d91c53d47062000063dbd6fc299a2a93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\David\Desktop\david_hennigan_android_instagram_test\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\David\Desktop\david_hennigan_android_instagram_test\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.1_ac0bd4a19a2e5eb8b6cddf9c104941bef6677596.jar" />
+    </item>
+
+</items>
